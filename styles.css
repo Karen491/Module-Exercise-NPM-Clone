@@ -1,0 +1,171 @@
+nav {
+    background-color: red;
+    color: rgba(255,255,255,0.8);
+    padding-top: 15px;
+    height: 30px;
+    margin: 0 auto;
+    font-family: 'Arial';
+}
+
+nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+    font-family: 'Arial';
+}
+
+.top-right {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-right li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.top-left {
+    height: 0px;
+}
+
+header {
+    background-color: rgb(32, 101, 136);
+    height: 500px;
+    font-family: 'Arial';
+}
+
+.npm-logo {
+  float: left;
+  margin-right: 30px;
+  margin-top: 19px;
+  margin-left: 9px;
+}
+
+.search-bar {
+  width: 1000px;
+  height: 25px;
+  margin-top: 15px;
+  background-color: rgb(32, 101, 136);
+}
+
+.search-button {
+    width: 30px;
+    height: 30px;
+    margin-left: -05px;
+    margin-top: 20px;
+    background-color: rgb(32, 101, 136);
+}
+
+.header-top a {
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    margin-left: 5px;
+
+}
+
+.header-top {
+    color: white;
+}
+
+.bear-image {
+    margin-right: 5px;
+    margin-top: 5px; 
+}
+
+.header-text {
+    color: white;
+    font-family: "Arial";
+    font-size: 18px;
+    width: 550px;
+    text-align: left;
+    margin-left: 170px;
+    margin-top: 100px;
+}
+
+.city-image {
+    float: right;
+    margin-bottom: 500px;
+    margin-top: 20px;
+    width: 700px;
+    height: 400px;
+    margin-right: 70px;
+}
+
+.signup-button {
+    color: white;
+    font-family: 'Arial';
+    text-decoration: none;
+    border: 2px orange solid;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: orange;
+}
+
+.section1 {
+  color:white;
+  background-color: rgb(39, 53, 71);
+  height: 450px;
+  font-family: 'Arial';
+}
+
+.section1 img {
+    float: left;
+    width: 500px;
+    height: 300px;
+    margin-left: 150px;
+    margin-bottom: 500px;
+}
+
+.section1-text {
+    font-family: 'Arial';
+    width: 400px;
+    padding-bottom: 800px;
+    margin-top: 400px;
+    padding-left: 800px;
+
+}
+
+.section2 {
+    background-image: url("/images/forklift.svg");
+
+}
+
+#section3 {
+  padding: 75px 0;
+  margin: 0 auto;
+}
+
+#section3 p {
+    width: 60%;
+  margin: 10px auto;
+}
+
+#section3 div {
+    display: flex;
+  justify-content: space-evenly;
+}
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
